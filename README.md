@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=MFGang's%20Github!&fontSize=90)
-
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=MFGang's%20Github!&fontSize=90" />
+</div>
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFGangP&layout=compact">
