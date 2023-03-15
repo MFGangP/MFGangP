@@ -3,8 +3,8 @@
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=MFGangP&show_icons=true" height="200">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFGangP&layout=compact" height="200"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=MFGangP&show_icons=true" height="195">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFGangP&layout=compact" height="195"/><br>
 
   
 </div>
