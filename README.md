@@ -1,10 +1,10 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=MFGang's%20Github!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=MFGang's%20Github!&fontSize=90" width="915"/>
 </div>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFGangP&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=MFGangP&show_icons=true"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFGangP&layout=compact" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MFGangP&show_icons=true" height="200"><br>
   
 </div>
 <div align=center>
