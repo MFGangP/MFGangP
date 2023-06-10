@@ -14,9 +14,10 @@
   
 </div>
 <div align=center>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Csharp-239120?style=flat&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" /><br>
   
@@ -24,8 +25,9 @@
 	<p>🛠 Tools 🛠</p>
   
 </div>   
-<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-5A45FF?style=flat-square&logo=Arduino&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-5A45FF?style=flat&logo=Arduino&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   
