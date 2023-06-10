@@ -21,26 +21,28 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" /><br>
   
+ 
+	
+<div>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
   
-</div>   
+</div>  
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-5A45FF?style=flat&logo=Arduino&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Arduino-5A45FF?style=flat&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-  
+</div>
+<div>	
 </p>
 <h3 align="center"> 꿈꾸는 것을 이루는 개발자가 되기 위해 공부 </h3>
 </p>
-
-</a>
-	<a href="https://www.instagram.com/lovehyun95">
+<a href="https://www.instagram.com/lovehyun95"></a>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
-	<a href="https://twitter.com/lovehyun95">
+<a href="https://twitter.com/lovehyun95"></a>
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/>
-</a>
-	<a href="https://www.twitch.tv/lovehyun95">  
+<a href="https://www.twitch.tv/lovehyun95"></a>
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=Twitch&logoColor=white"/>
+</div>	
+
